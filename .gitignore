@@ -1,0 +1,12 @@
+# Maven
+**/target/
+*.class
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
